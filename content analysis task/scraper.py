@@ -8,10 +8,7 @@ rate_limiter = RateLimiter(max_calls=4, period=1)  # 每秒最多 4 次请求
 
 
 url = "https://api.igdb.com/v4/games"
-headers = {
-    "Client-ID": "edas341kp5zs05swiuzxxjd84a7wi9",
-    "Authorization": "Bearer zb8i0dcdzczvh6wfotmp0dxh6a2u9f",
-}
+headers = {}
 
 
 
