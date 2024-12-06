@@ -1,0 +1,416 @@
+engine_id,engine_name
+2,Frostbite
+3,Source
+4,GoldSrc
+6,Unreal Engine
+7,Scimitar
+8,Havok
+9,Anvil
+10,AnvilNext
+12,Telltale Tool
+13,Unity
+14,MT Framework
+16,Disrupt
+17,Havok Physics
+18,4A Engine
+19,Snowdrop
+21,TheEngine
+22,UbiArt Framework
+23,Serious Engine 4
+24,REDengine
+25,CryEngine
+26,RAGE
+27,Dark Alliance Engine
+28,Infinity Engine
+29,Fox Engine
+31,Adventure Game Studio
+32,Retox
+33,Forgelight Engine
+34,GlassBox
+35,Northlight Engine
+36,Asura
+37,Quest
+38,Diesel
+41,RenderWare
+42,SpeedTree
+43,Dark Engine
+45,Vision
+46,Crystal Engine
+47,id Tech 5
+48,id Tech 4
+50,Starbreeze Engine
+52,In-house engine
+53,SCUMM
+54,Gamebryo
+55,Euphoria Engine
+56,id Tech 3
+57,Real Virtuality
+58,Ignite Engine
+59,Impact Engine
+60,Prism3D
+61,LithTech 1
+62,Torque Game Engine
+63,Adobe AIR
+64,Adobe Flash Player
+65,Torque 2D
+66,BigWorld
+67,MAX-FX
+68,Aurora Engine
+69,Build
+70,The Sims 3 Engine
+72,Odyssey
+73,Babel engine
+74,X-ray Engine
+75,Eclipse Engine
+76,Jade
+77,AGOS
+78,Chrome Engine
+79,GameMaker: Studio
+81,RPG Maker VX Ace
+82,MonkeyX
+84,Custom built engine
+85,Gex engine
+87,HeroEngine
+88,Genome
+89,PhysX
+90,Avalanche engine
+91,PathEngine
+92,XnGine
+93,Radiant AI
+94,FaceGen
+95,Creation Engine
+96,SAGA
+97,id Tech 2
+99,Ego Engine
+100,Nod Engine
+101,Virtual Theatre
+102,Virtools Engine
+103,Microsoft XNA
+104,MonoGame
+105,Essence Engine
+106,ROMU
+107,Firaxis LORE
+108,Amityville
+109,Horizon Engine
+110,Labyrinth Engine
+113,Twilight
+114,Crystal Tools
+116,id Tech 1
+118,Dunia Engine
+119,Glacier
+120,Enfusion
+121,Refractor Engine
+122,Chameleon
+123,IW Engine
+124,Treyarch NGL
+125,Voxel Space
+126,Kinetica
+127,LS3D
+128,BitSquid
+129,Emmersion
+130,SAGE
+131,W3D
+132,Voxel Plus
+134,ZenGin
+135,Geo-Mod
+136,Popcap Games Framework
+138,Jedi
+139,Sith
+141,PainEngine
+142,AGI
+143,Sierra's Creative Interpreter
+144,iMUSE
+145,GrimE
+146,Beard+Razor
+147,YETI
+149,Proprietary Engine
+150,Onyx Engine
+152,Saber3D
+153,LyN
+154,Vengeance Engine
+156,Clickteam Fusion
+157,GAIA
+163,CloakNT3
+166,enhanced Adventure Island
+167,Cube Engine
+170,Objectnaut
+171,Flixel
+172,id Tech 6
+173,OGRE
+174,PhyreEngine
+177,Nebula Device
+178,HPL
+179,Ren'Py Visual Novel Engine
+181,Kapow
+183,RAD Engine 4.0
+187,Alamo
+188,Snowblind engine
+189,AtmosFear
+190,Omen Engine
+192,MassTech
+193,STORM Engine
+195,Dawn Engine
+200,Evolution
+201,RuneTek
+206,Construct 2
+207,Genie Engine
+208,Zero
+209,Godfather engine
+210,Visceral Engine
+211,Dragonfly
+212,Luminous Studio
+214,COBRA
+215,ASKA
+216,Real Live
+217,Lightweight Java Game Library
+218,node.js
+219,NScripter
+221,Game Maker
+225,Phoenix Engine (Relic)
+229,Moai
+233,Virtual Dream
+234,TW Engine 3
+237,The Madness Engine
+238,Sprint
+239,Irrlicht
+240,Multimedia Fusion
+246,Wolfenstein 3D
+254,AGDS (Advanced Graphic Development System)
+255,Divinity Engine
+257,BASIC
+261,Soft Engine
+271,XNA Game Studio
+272,KiriKiri
+275,The Banner Saga Engine
+277,WOLF RPG Editor
+278,The Sims 2 Engine
+279,HPL Engine
+280,SmartSim
+283,Ice-Peak Engine
+286,Silent Storm Engine
+287,EAGL
+288,Dagon Engine
+291,CANVAS Engine
+292,VRAGE
+296,Clausewitz Engine
+304,The Reality Engine
+308,Cryengine 2
+310,Blam! Engine
+311,Iron Engine
+312,Torque 3D
+313,Beam Next Generation
+314,Dagor Engine
+316,Serious Engine
+317,EDuke32
+318,Silk Engine
+325,Bluepoint Engine
+327,Infernal Engine
+330,Trinigy Vision Engine
+332,Atrophy
+333,Horizon
+334,RPG Maker XP
+337,Void Engine
+338,Z-Engine
+340,GameMaker
+341,Cryptic Engine
+343,Box2D
+346,Road Hog Engine
+347,Visionaire
+349,Orochi
+350,Taito Type X
+351,Unreal Engine 3
+354,RE Engine
+355,Titanium
+362,Foundation Engine
+366,Stingray Engine
+373,HaxeFlixel
+380,C++
+391,Dragon Engine
+394,renpy
+400,LÖVE
+402,Cocos2d-x
+404,Unity 4
+411,Game Maker Studio
+412,Decima
+414,HTML5
+416,Evolution Engine
+418,Mercury Steam Engine
+421,Amazon Lumberyard
+427,Asura engine
+433,In House Engine
+436,DreamWorld
+437,BANG!
+438,Real Virtuality 3
+439,Unreal Engine 4
+442,Shark 3D
+448,RPG Maker MV
+454,ArenaNet Guild Wars
+456,Godot
+458,K2 Engine
+465,Nvidia PhysX
+466,GH Engine
+476,OpenFL
+479,Black Desert Engine
+481,Real Virtuality 4
+482,CryEngine 3
+485,The Illusion Engine
+486,FLEDGE Engine
+487,Turbine G3
+489,Riot Engine
+490,Bedrock Engine
+491,Frostbite 3
+494,Falling Everything Engine
+496,Unreal Engine 2
+497,Hedgehog Engine
+500,Eclipse
+502,Autodesk Beast
+507,Godot Engine
+509,Unity 2017
+513,Firebird Engine
+515,Ronin
+520,love2d
+527,SDL
+528,Glacier 2
+529,Unity 5
+532,GameMaker Studio 2
+542,Bright Light Halogen
+543,A.L.I.V.E.
+547,TW Engine 1
+548,TW Engine 2
+557,Source 2
+567,Insomniac Engine v.4.0
+573,Naughty Dog Engine
+574,Apex
+575,CryEngine 5
+576,Slipspace Engine
+578,Liquid Engine
+579,C-Engine
+580,AEGIS
+588,OpenGL
+590,J2ME
+593,Allegro
+595,FNA
+601,Unity 2018
+603,Unity3D
+608,Symbian
+610,Heaps.io
+612,Quicksilver X
+615,Sensible Soccer
+618,Swarm Engine
+621,Capcom Play System (CPS-1)
+626,LithTech Jupiter
+663,Lithtech Triton
+664,Asylum
+667,Unreal
+668,CATHODE
+669,Essence Engine 5
+670,Jomini Engine
+671,The Creator Engine
+673,Serious Engine 4.0
+677,Warriors engine
+680,Cyllista Engine
+687,id Tech 7
+695,KEX
+696,RPG Maker 2000
+699,Havoc
+704,RPG Maker VX
+706,NetImmerse
+740,Touch Video
+745,Origin FX
+747,libGDX
+749,Zod Engine
+750,Unity 2019
+752,The Alan Wake Engine
+754,Ubisoft Anvil
+760,Insomniac Engine
+761,proprietary engine [ by Blizzard Entertainment ]
+765,RPG Maker 2003
+767,Frostbite 2
+770,Turok
+774,Mohawk
+776,Plasma
+777,ALIVE
+815,Messiah Engine
+816,Yamaneko Engine
+818,proprietary engine [ by Team Ninja ]
+820,LithTech Jupiter EX
+839,Unreal Engine 2.5
+840,RSPiX
+843,unreal 4
+875,N2System
+880,Alicesoft System
+885,Hedgehog Engine 2
+940,Sega NAOMI
+973,Sega ALLS
+977,CP System III (CPS-3)
+981,Blazing Renderer
+982,Unreal Engine 5
+1040,Jade Engine
+1041,Despair
+1043,ForzaTech
+1045,Eco-Motion Engine
+1051,Super Mario 64 Engine
+1055,FIFA 2001 Engine
+1056,Super Monkey Ball Engine
+1062,FIFA International Soccer
+1070,XRay-Monolith
+1107,sdl2
+1108,Starlight
+1113,Sunshine Engine
+1123,Capcom Play System III (CPS-3)
+1125,Ftech X
+1133,EngineX
+1149,EMotion FX
+1152,Custom C# Engine
+1154,EngineXT
+1155,IW Engine 3.0
+1156,Red Ring
+1180,FMOD
+1182,GameMaker Studio
+1195,Core Design
+1222,Neo Geo MVS
+1236,Namco System
+1251,Unity 2021
+1263,Oynx Game Solutions
+1265,Southpaw
+1266,Emulator
+1290,Proprietry in house engine
+1293,Glacier Engine
+1295,The Sims Engine
+1307,Halo 3
+1308,Halo 2
+1309,Halo Reach
+1311,Custom Engine
+1325,Taito Type-X2
+1331,Tiger
+1353,EAGL 2
+1355,Marmalade
+1369,CTG (Core Technology Group)
+1435,Octave Engine
+1441,Spark
+1442,Vicarious Visions Alchemy
+1443,Goliath Engine
+1444,Merkury Engine
+1445,Lux Engine
+1446,Hexane Engine
+1449,Pure3D
+1450,Titanium
+1452,LEAD Engine
+1456,Zouna
+1457,Slayer
+1458,WF Engine
+1462,Maniaplanet
+1487,Katana Engine
+1488,Creation Engine 2
+1489,Fusion Engine
+1490,RUDE
+1540,osu!framework
+1582,HaemimontSol
+1612,Fallout Engine
+1616,CARBON Engine
+1627,TrueMotion
+1635,Buddha
+1705,Stranger's engine
+1711,Holistic
+1713,LithTech Talon
+1714,LithTech 2.x
