@@ -14,7 +14,6 @@ This analysis can aid game developers, marketers, and researchers in understandi
 - **Data Preprocessing:** Scripts to clean, transform, and prepare raw data for analysis.
 - **Exploratory Data Analysis (EDA):** Visualizations and statistical analysis to uncover insights.
 - **Predictive Modeling:** Machine learning models to predict game ratings.
-- **Data Conversion:** Tools to convert JSON data into CSV format for easier handling.
 - **Documentation:** Comprehensive guides and documentation for ease of use.
 
 ## Installation
