@@ -4,7 +4,9 @@ Welcome to the **IGDB Analysis** repository! This project focuses on a comprehen
 
 - **Preprocess** raw game data
 - Perform **Exploratory Data Analysis (EDA)**
-- Develop **Predictive Models** to forecast game ratings
+  -   Game Development & LocalizationStrategy (part one)
+  -   Clustering & Community Insights (part two)
+- Develop **Predictive Models** to forecast game ratings (part three)
 
 This analysis can aid game developers, marketers, and researchers in understanding trends and making data-driven decisions.
 
@@ -68,6 +70,7 @@ python data_preprocessing/numeric_processing.py
 
 ## Exploratory Data Analysis
 Generate EDA reports and visualizations.
+for part two can be found at part two/task_1.ipynb
 
 
 
