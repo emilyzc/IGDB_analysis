@@ -70,7 +70,10 @@ python data_preprocessing/numeric_processing.py
 
 ## Exploratory Data Analysis
 Generate EDA reports and visualizations.
-for part two can be found at part two/task_1.ipynb
+
+**For part one visualization can be found at part one/GameAnalysis_Part1.ipynb**
+
+**For part two visualization can be found at part two/task_1.ipynb**
 
 
 
