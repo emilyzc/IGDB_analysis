@@ -68,7 +68,7 @@ Process numeric features by handling missing values, normalizing data, and perfo
 python data_preprocessing/numeric_processing.py
 ```
 
-## Exploratory Data Analysis
+## Exploratory Data Analysis (Part One and Part Two)
 Generate EDA reports and visualizations.
 
 **For part one visualization can be found at part one/GameAnalysis_Part1.ipynb**
@@ -77,7 +77,7 @@ Generate EDA reports and visualizations.
 
 
 
-## Predictive Modeling
+## Predictive Modeling (Part Three)
 Train and evaluate models to predict game ratings.
 ```bash
 jupyter notebook part_three/rating_prediction.ipynb
